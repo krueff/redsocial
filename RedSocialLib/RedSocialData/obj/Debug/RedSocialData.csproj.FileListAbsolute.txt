@@ -1,0 +1,8 @@
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialData\bin\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialData\bin\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialData\obj\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialData\obj\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialData\bin\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialData\bin\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialData\obj\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialData\obj\Debug\RedSocialData.pdb

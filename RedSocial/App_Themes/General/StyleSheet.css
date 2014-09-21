@@ -1,0 +1,145 @@
+﻿.background
+{
+    background-image: url('../../Imagenes/RegistracionFondo.jpg');
+    background-position:50% 50%;
+    background-position:50% 50%\9 !important;
+    background-repeat:no-repeat;
+    background-position:center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
+    min-height: 768px
+}
+
+.CajaRegistracion
+{
+    background-color: rgba(10,10,10,0.5); /*color bordó para el fondo*/ 
+    Height: auto;
+    Width: 325px;
+    position:relative;
+    padding: 0 10px 15px 10px;
+    margin-top: 20px;
+    margin-left: 60%;
+    border-radius: 5px;
+}
+
+.Titulo
+{
+    background-image: url('../../Imagenes/titulo.png');
+    Height: 91px;
+    Width: 396px;
+    margin-top: 40px;
+    margin-bottom:10px;
+    margin-left:60%;
+}
+
+.logo
+{
+    background-image: url('../../Imagenes/logo.png');
+    width:117px;
+    height: 47px;
+    position:absolute;
+    margin-top:0px;
+}
+
+select {
+    padding:8px;
+    margin: 3px;
+    margin-top: 15px;
+    -webkit-border-radius:2px;
+    background: #f8f8f8;
+    color:#888;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+
+.Busqueda
+{   
+    text-align:center;
+    width: 80%;   
+    background-color: #fff;
+    margin-top:15;   
+    margin: 0 auto;
+    border: solid 1px #525252;   
+    border-collapse:collapse;   
+}  
+.Busqueda td {   
+    padding: 2px;   
+    border: solid 1px #c1c1c1;   
+    color: #717171;   
+}  
+.Busqueda th {   
+    padding: 4px 2px;   
+    color: #fff;   
+    background: #4F5572 url(grd_head.png) repeat-x top;   
+    border-left: solid 1px #525252;   
+    font-size: 0.9em;   
+}  
+.Busqueda .alt { background: #fcfcfc url(grd_alt.png) repeat-x top; }  
+.Busqueda .pgr { background: #424242 url(grd_pgr.png) repeat-x top; }  
+.Busqueda .pgr table { margin: 5px 0; }  
+.Busqueda .pgr td {   
+    border-width: 0;   
+    padding: 0 6px;   
+    border-left: solid 1px #666;   
+    font-weight: bold;   
+    color: #fff;   
+    line-height: 12px;   
+ }     
+.Busqueda .pgr a { color: #666; text-decoration: none; }  
+.Busqueda .pgr a:hover { color: #000; text-decoration: none; }  
+
+.AgregarAmigo
+{
+    margin-top: 2px;
+	font-size: 12px;
+	border: 0px;
+	background-color: rgba(0,0,0,0);
+	border: 1px solid #c1c1c1;
+	color: #717171;
+	height: 40px;
+    padding: 10px 20px!important;
+    border-radius: 4px;
+    width: 150px;
+    -webkit-appearance: none;
+}
+
+.Seleccion
+{
+    margin-left: 5px;
+    padding:17px 10px 0 0;
+    color: White;
+
+}
+
+.Seleccion a
+{
+    color: rgba(255,255,255,0.5);
+}
+
+.selPerfil
+{
+    margin: 15px 20px 0px -10px;
+    background-color: #5289CC;
+    padding:13px 0 10px 0;
+    border-radius: 5px 5px 0 0;
+    color: White;
+    Width: 345px;    
+    font-weight: bold;    
+}
+
+.cajaRegistracionTitulo
+{
+    margin-left: 18px;
+    color: White;
+    text-align:left;
+    font-weight: bold;
+}
+
+

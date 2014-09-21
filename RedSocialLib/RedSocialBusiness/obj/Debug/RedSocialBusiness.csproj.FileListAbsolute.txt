@@ -1,0 +1,52 @@
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT v1.1\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.3 - copia\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.4\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialBusiness.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialComun.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialDataSQLServer.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialData.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\bin\Debug\RedSocialEntity.pdb
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.dll
+C:\Users\Lucas Cabello\Downloads\ORT\2º2º\Taller 4\Red Social ORT\Red Social ORT v1.5\RedSocialLib\RedSocialBusiness\obj\Debug\RedSocialBusiness.pdb

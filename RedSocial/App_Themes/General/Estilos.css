@@ -1,0 +1,138 @@
+﻿html, body
+{
+	height: 100%;
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    background-color:#E8E8E8;
+}
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Verdana;
+	font-size: 11pt;
+}
+
+SELECT
+{
+    font-size: 9pt;
+}
+
+/* Cabecera */
+/****************/
+TABLE.Cabecera
+{
+    width: 100%;
+    background-color: #161616;
+}
+
+TABLE.login
+{
+    margin-left:60%;
+    margin-right:30%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+SPAN.RedSocialORTTitulo
+{
+	color: White;
+	font-size: 26pt;
+	padding-left: 130px;
+}
+
+SPAN.EtiquetaCabecera
+{
+	color: White;
+	font-size: 9pt;
+}
+
+INPUT.BotonCabecera
+{
+    margin-top: 0px;
+    margin-left: 2px;
+	font-size: 12px;
+	border: 0px;
+	background-color: #40BF80;
+	color: White;
+	height: 25px;
+    border-radius: 2px;
+    width: 80px;
+    -webkit-appearance: none;
+}
+
+INPUT.CajaTextoCabecera
+{
+	padding: 5px;
+	border: 1px solid #1d2a5b;
+	font-size: 9pt;
+	border-radius: 4px;
+}
+
+.Buscar
+{
+    margin-left:50%;
+    margin-right: 0%;
+}
+
+/* Registración */
+/****************/
+DIV.FondoRegistracion
+{
+	background-color: #e7ebf2;
+	padding-bottom: 150px;
+}
+
+DIV.Registracion
+{
+	padding-top: 70px;
+}
+
+SPAN.Registracion
+{
+	color: Black;
+	font-size: 22pt;
+}
+
+INPUT.CajaTextoRegistracion, INPUT.CajaTextoRegistracionApellido
+{
+	border: 0 none;
+	margin-top: 15px;
+    border-radius: 2px;
+    padding: .66em .95em;
+    font-size: 16px;
+    line-height: 1.2;
+}
+
+INPUT.CajaTextoRegistracionApellido
+{
+	float: right;
+}
+
+SPAN.EtiquetaRegistracion
+{
+	color: Black;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+SPAN.SexoFemenino
+{
+	padding-right: 10px;
+	font-size: 9pt;
+}
+
+INPUT.BotonRegistracion
+{
+    margin-top: 15px;
+	font-size: 16px;
+	border: 0px;
+	background-color: #5289CC;
+	color: White;
+	height: 40px;
+    padding: 10px 20px!important;
+    border-radius: 4px;
+    width: 150px;
+    -webkit-appearance: none;
+}

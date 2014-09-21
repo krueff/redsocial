@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Autenticado.master.cs" Inherits="Autenticado" %>
+
+<!DOCTYPE html>
+
+<html lang="es">
+<head id="Head1" runat="server">
+    <meta charset="ISO-8859-1" />
+    <title>Red Social ORT</title>
+        <link href="css/jquery-ui-1.8.21.custom.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="Cabecera" runat="server">
+            <asp:Panel ID="panLogo" runat="server" CssClass="logo" ViewStateMode="Inherit"></asp:Panel>
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    $("#<%=txtBuscar.ClientID%>").autocomplete({
+                        source: function (request, response) {
+                            $.ajax({
+                                url: '<%=ResolveUrl("~/autocompletar.asmx/GetNombres") %>',
+                                data: "{ 'UsuarioNombre': '" + request.term + "'}",
+                                dataType: "json",
+                                type: "POST",
+                                contentType: "application/json; charset=utf-8",
+                                success: function (data) {
+                                    response(data.d);
+                                },
+                                error: function (response) {
+                                    alert(response.responseText);
+                                },
+                                failure: function (response) {
+                                    alert(response.responseText);
+                                }
+                            });
+                        },
+                        minLength: 1
+                    });
+                });
+            </script>
+            <asp:Table runat="server" ID="tblCabecera" CssClass="Cabecera">
+                <asp:TableRow>
+                    <asp:TableCell CssClass="RedSocialORTTitulo">
+                        <asp:Label runat="server" ID="lblRedSocialORT" Text="" CssClass="RedSocialORTTitulo"></asp:Label></asp:TableCell>
+                    <asp:TableCell>
+                        <asp:Panel ID="panBuscar" runat="server" CssClass="Buscar">
+                            <asp:TextBox ID="txtBuscar" runat="server" CssClass="CajaTextoCabecera"></asp:TextBox>
+                            <asp:Button ID="btnBuscar" runat="server" Text="Buscar" OnClick="btnBuscar_Click" CssClass="BotonCabecera"/> 
+                        </asp:Panel>  
+                    </asp:TableCell>
+                </asp:TableRow>
+            </asp:Table>
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder id="Cuerpo" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
